@@ -1,6 +1,6 @@
 Hi, Ayush Here
 
-•🐱 I’m interested in CyberSecurity💻
+•🐱 I’m interested in Full Stack Development💻
 
 •🌱 I’m currently learning Android Development
 
